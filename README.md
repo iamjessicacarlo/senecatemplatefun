@@ -1,0 +1,2 @@
+# senecatemplatefun
+Following along
