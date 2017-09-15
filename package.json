@@ -1,0 +1,15 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Generic Template",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Seonghee Hong",
+  "license": "ISC",
+  "devDependencies": {
+    "server-lite": "^1.0.0"
+  }
+}
